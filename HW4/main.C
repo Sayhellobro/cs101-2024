@@ -1,4 +1,3 @@
-第一題
 #include <stdio.h>
 
 typedef struct {
